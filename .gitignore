@@ -4,6 +4,9 @@
 [Bb]uild/
 [Bb]uilds/
 Assets/AssetStoreTools*
+/Assets/Animation*
+/Assets/Resources/*
+/Assets/RainMaker/*
 
 # Visual Studio cache directory
 .vs/
